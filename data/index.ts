@@ -72,11 +72,11 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
+    title: "Intuitive ui design for an Hotel Management System",
+    des: "A modern and intuitive UI design for a hotel management system, built using React and Tailwind CSS.",
+    img: "/p1.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "/ui.earth.com",
+    link: "/ui.HBA.com",
   },
   {
     id: 2,
@@ -88,11 +88,11 @@ export const projects = [
   },
   {
     id: 3,
-    title: "AI Image SaaS - Canva Application",
-    des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-    img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    title: "An Online Blog Application",
+    des: "An online blog application where you can read and write blogs on various topics. Built using Next.js and Tailwind CSS.On top of SANITY headless CMS.",
+    img: "/p3.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/sanity.svg", "/c.svg"],
+    link: "/pmsanity.vercel.app/",
   },
   {
     id: 4,
@@ -134,9 +134,9 @@ export const testimonials = [
 export const companies = [
   {
     id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
+    name: "vercel",
+    img: "/vercel.svg",
+    nameImg: "/vercelName.png",
   },
   {
     id: 2,
@@ -176,14 +176,14 @@ export const workExperience = [
     id: 2,
     title: "Mobile App Dev - JSM Tech",
     desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2", 
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
     title: "Freelance App Dev Project",
     desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-    className: "md:col-span-2", // change to md:col-span-2
+    className: "md:col-span-2",
     thumbnail: "/exp3.svg",
   },
   {
