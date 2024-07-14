@@ -37,7 +37,7 @@ const Hero = () => {
             words="Transforming your ideas into reality"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            hi, I&apos;m Pratul, a FullStack dev from Kolkata.
+            Hi, I&apos;m Pratul, a FullStack dev from Kolkata.
           </p>
           <a href="#about">
             <MagicButton

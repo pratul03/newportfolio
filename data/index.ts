@@ -96,11 +96,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-    img: "/p4.svg",
+    title: "Animated 3D Model Portfolio Website",
+    des: "Showcase your work in style with this animated 3D portfolio website built using NextJs and Three.js.",
+    img: "/p4.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "pmport.vercel.app",
   },
 ];
 
